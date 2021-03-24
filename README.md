@@ -2,11 +2,6 @@
 <html>
 <body>
 
-<h1>FloodNet Challenge Track 1 - CVPR 2021</h1>
-
-<h2>Important Dates</h2>
-
-
 <h2>Challenge Overview</h2>
 
 <p>Recent surge of different natural disasters has caused human and economic losses worldwide. 
