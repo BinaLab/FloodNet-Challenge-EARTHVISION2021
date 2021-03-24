@@ -43,4 +43,4 @@ this challenge requires building a model for semantic segmentation with few labe
 <p><b>Visual Question Answering:</b> Visual question Answering is a multimodal task where a system provides an answer for a given question from an image. 
 No work has been considered the VQA task for post-disaster damage assessment. To accelerate this task, we present the Visual Question Answering task for post-disaster damage assessment. <p>
   
-<p> The dataset for Track 2 can be downloaded from this link: </p>
+<p> The dataset for Track 2 can be downloaded from this link: https://drive.google.com/drive/folders/1g1r419bWBe4GEF-7si5DqWCjxiC8ErnY?usp=sharing </p>
