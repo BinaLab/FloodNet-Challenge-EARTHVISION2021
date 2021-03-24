@@ -44,3 +44,12 @@ this challenge requires building a model for semantic segmentation with few labe
 No work has been considered the VQA task for post-disaster damage assessment. To accelerate this task, we present the Visual Question Answering task for post-disaster damage assessment. <p>
   
 <p> The dataset for Track 2 can be downloaded from this link: https://drive.google.com/drive/folders/1g1r419bWBe4GEF-7si5DqWCjxiC8ErnY?usp=sharing </p>
+
+<h3>Paper Link</h3>
+<p>Please cite our paper<p>
+@article{rahnemoonfar2020floodnet,
+  title={FloodNet: A High Resolution Aerial Imagery Dataset for Post Flood Scene Understanding},
+  author={Rahnemoonfar, Maryam and Chowdhury, Tashnim and Sarkar, Argho and Varshney, Debvrat and Yari, Masoud and Murphy, Robin},
+  journal={arXiv preprint arXiv:2012.02951},
+  year={2020}
+}
