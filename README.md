@@ -23,8 +23,7 @@ The dataset for Track 1 can be downloaded from this link: https://drive.google.c
 
 ### Track 2
 
-Visual Question Answering: Visual question Answering is a multimodal task where a system provides an answer for a given question from an image. 
-No work has been considered the VQA task for post-disaster damage assessment. To accelerate this task, we present the Visual Question Answering task for post-disaster damage assessment.
+Visual Question Answering: Visual question Answering is a multimodal task where a system provides an answer for a given question from an image. By asking the questions in natural language and getting the answers from those questions, we can understand the damage scenario comprehensively. "Is there any flooded road?", "How many flooded buildings are in the image?" - these types of questions will provide very crucial information and help the rescuers efficiently. In this track, we present the Visual Question Answering task for post-disaster damage assessment.
   
 The dataset for Track 2 can be downloaded from this link: https://drive.google.com/drive/folders/1g1r419bWBe4GEF-7si5DqWCjxiC8ErnY?usp=sharing
 
