@@ -2,27 +2,28 @@
 
 ## Challenge Overview
 
-Recent surge of different natural disasters has caused human and economic losses worldwide. 
-The aftermath of these catastrophic disasters urges for quick humanitarian aid. However, manual rescue efforts are laborious and sometimes insufficient in reducing the great impacts of natural disasters. Meanwhile, in recent times computer vision techniques have been evolved and improved a lot to tackle these challenges. Moreover, post disaster analysis lacks high resolution imagery that would not only detect the damaged areas but also provides damage details. This type of analysis will certainly help the rescue efforts and thus will reduce human and economic cost. FloodNet provides high resolution UAV imageries with more information regarding the damages. Inspired by FloodNet and with an objective to perform a quick post disaster damage assessment, we propose a challenge on three different computer vision tracks. To advance the damage assessment process for post-disaster scenarios, we present a unique challenge considering two tracks for UAV imagery based FloodNet dataset.
- 
- 1. Track 1
- 2. Track 2
+Recent surge of natural disasters has caused human and economic losses across the world. 
+The aftermath of these catastrophic disasters calls for quick humanitarian aid. However, manual rescue efforts are laborious and sometimes insufficient in reducing the great impact of natural disasters. Recently evolving techniques in computer vision can be used to tackle these challenges and assist first responders. Moreoever, analysis of high resolution post-disaster images is required that can help rescue efforts and reduce human as well as economic cost. 
+
+[FloodNet](https://arxiv.org/abs/2012.02951) dataset provides high resolution UAV imageries with different types of damages such as as damaged buildings, roads, and neighborhoods. Inspired by this dataset and with an objective to perform a quick post disaster damage assessment, we propose a computer vision challenge on two tracks. 
+
+ 1. Track 1: Image Classification and Semantic Segmentation
+ 2. Track 2: Visual Question Answering
 
 
 ### Track 1
 
-1. Semi-Supervised Classification: Classification for FloodNet dataset requires classifying the images (e.g. flooded or non-flooded) with few label data.
- This task will inspire the development of semi-supervised techniques that require few labeled data.
+In this track, participants are required to complete two semi-supervised tasks. The first task is image classification, and the second task is semantic segmentation.
+
+1. Semi-Supervised Classification: Classifying each image into 'Flooded' and 'Non-Flooded' categories with only a few training images having such labels available.
  
-2. Semi-Supervised Semantic Segmentation: Considering the difficulties of annotation for semantic segmentation purposes, 
-this challenge requires building a model for semantic segmentation with few labeled data.
+2. Semi-Supervised Semantic Segmentation: Pixel-wise classification of each image into multiple classes such as 'Road-Flooded', 'Road-Non-Flooded', 'Building-Flooded', 'Building-Non-Flooded' etc. Only a few training images have the pixel-wise masks available.
 
 The dataset for Track 1 can be downloaded from this link: https://drive.google.com/drive/folders/1sZZMJkbqJNbHgebKvHzcXYZHJd6ss4tH?usp=sharing
 
 ### Track 2
 
-Visual Question Answering: Visual question Answering is a multimodal task where a system provides an answer for a given question from an image. 
-No work has been considered the VQA task for post-disaster damage assessment. To accelerate this task, we present the Visual Question Answering task for post-disaster damage assessment.
+Visual Question Answering: Visual question Answering is a multimodal task where a system provides an answer for a given question from an image. By asking the questions in natural language and getting the answers from those questions, we can understand the damage scenario comprehensively. "Is there any flooded road?", "How many flooded buildings are in the image?" - these types of questions will provide very crucial information and help the rescuers efficiently. In this track, we present the Visual Question Answering task for post-disaster damage assessment.
   
 The dataset for Track 2 can be downloaded from this link: https://drive.google.com/drive/folders/1g1r419bWBe4GEF-7si5DqWCjxiC8ErnY?usp=sharing
 
