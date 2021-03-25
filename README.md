@@ -29,7 +29,8 @@ The dataset for Track 2 can be downloaded from this link: https://drive.google.c
 
 ### Paper Link
 The paper can be downloaded from this [link](https://arxiv.org/abs/2012.02951).
-Please cite our paper
+Please cite our paper when using the dataset
+
  ```
 @article{rahnemoonfar2020floodnet,
   title={FloodNet: A High Resolution Aerial Imagery Dataset for Post Flood Scene Understanding},
