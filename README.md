@@ -5,7 +5,7 @@
 Recent surge of natural disasters has caused human and economic losses across the world. 
 The aftermath of these catastrophic disasters calls for quick humanitarian aid. However, manual rescue efforts are laborious and sometimes insufficient in reducing the great impact of natural disasters. Recently evolving techniques in computer vision can be used to tackle these challenges and assist first responders. Moreoever, analysis of high resolution post-disaster images is required that can help rescue efforts and reduce human as well as economic cost. 
 
-[FloodNet dataset](https://arxiv.org/abs/2012.02951) provides high resolution UAV imageries with different types of damages such as as damaged buildings, roads, and neighborhoods. Inspired by this dataset and with an objective to perform a quick post disaster damage assessment, we propose a computer vision challenge on two tracks. 
+[FloodNet](https://arxiv.org/abs/2012.02951) dataset provides high resolution UAV imageries with different types of damages such as as damaged buildings, roads, and neighborhoods. Inspired by this dataset and with an objective to perform a quick post disaster damage assessment, we propose a computer vision challenge on two tracks. 
 
  1. Track 1: Image Classification and Semantic Segmentation
  2. Track 2: Visual Question Answering
